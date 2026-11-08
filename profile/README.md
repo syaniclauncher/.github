@@ -6,7 +6,7 @@ The project is currently under active development and repositories are not yet p
 
 ## Community
 
-* Discord: https://discord.gg/pzNJfacrve
+* Discord: https://dsc.gg/syaniclauncher
 * YouTube: [@SyanicXD](https://youtube.com/@SyanicXD)
 * GitHub: [@xsyanic](https://github.com/xsyanic)
 
