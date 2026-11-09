@@ -2,7 +2,7 @@
 
 An upcoming free and open-source Minecraft launcher focused on simplicity, performance, and a clean user experience.
 
-The project is currently under active development and repositories are not yet public.
+The project is currently under active development and repository for the launcher is [public](https://github.com/syaniclauncher/syaniclauncher).
 
 ## Community
 
