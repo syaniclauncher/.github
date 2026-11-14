@@ -10,6 +10,9 @@ The project is currently under active development and repository for the launche
 * YouTube: [@SyanicXD](https://youtube.com/@SyanicXD)
 * GitHub: [@xsyanic](https://github.com/xsyanic)
 
+## Team
+- [@xsyanic](https://github.com/xsyanic) (Solo developer behind this project till now)
+
 ## Status
 
 Syanic Launcher is not ready for public use. Development progress, announcements, and early previews will be shared through the community channels above.
