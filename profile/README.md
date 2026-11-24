@@ -13,6 +13,10 @@ The project is currently under active development and repository for the launche
 ## Team
 - [@xsyanic](https://github.com/xsyanic) (Solo developer behind this project till now)
 
+## Testers
+- [@akxsh9](https://github.com/akxsh9)
+- [@aasthasahuuu](https://github.com/aasthasahuuu)
+
 ## Status
 
 Syanic Launcher is not ready for public use. Development progress, announcements, and early previews will be shared through the community channels above.
